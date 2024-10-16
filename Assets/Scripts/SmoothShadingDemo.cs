@@ -1,4 +1,4 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class SmoothShadingDemo : MonoBehaviour
 {
@@ -54,3 +54,4 @@ public class SmoothShadingDemo : MonoBehaviour
 	} 
 }
 
+*/
