@@ -15,7 +15,7 @@ public class Chunk : MonoBehaviour
 
     public NoiseGenerator NoiseGenerator;
 
-    [Range(0, 4)]
+    [Range(0, 9)]
     public int LOD;
 
     struct Triangle {

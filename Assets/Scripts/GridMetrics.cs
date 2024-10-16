@@ -1,7 +1,7 @@
 ﻿public static class GridMetrics {
     public const int NumThreads = 8;
 
-    public const int Scale = 128;
+    public const int Scale = 32;
 
     public const int GroundLevel = Scale / 2;
 
@@ -10,7 +10,12 @@
         16,
         24,
         32,
-        40
+        40,
+        48,
+        56,
+        64,
+        72,
+        80
     };
 
 
